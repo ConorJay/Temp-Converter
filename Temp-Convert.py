@@ -10,4 +10,4 @@ farenheit = celsius_to_farenheit(float(user_input))
 
 print(farenheit)
 if float(user_input) > 30:
-    print("Drink lots of water!")
+    print("Drink lots of water, my G!")
